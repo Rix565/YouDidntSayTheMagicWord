@@ -5,9 +5,10 @@ Open a shell/command prompt, and execute this command to clone the repository (y
 
 `git clone https://github.com/Rix565/YouDidntSayTheMagicWord`
 
-Run this command to go to the project's folder:
+Run these command to go to the project's source folder:
 
 `cd YouDidntSayTheMagicWord`
+`cd src`
 
 Run this command to install all the dependencies:
 
