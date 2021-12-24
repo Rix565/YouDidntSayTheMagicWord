@@ -67,6 +67,7 @@ t1 = threading.Thread(target=spam)
 t1.start()
 t2 = threading.Thread(target=app)
 t2.start()
+sleep(2)
 while True:
     playsound("magicword.mp3")
     sleep(3)
